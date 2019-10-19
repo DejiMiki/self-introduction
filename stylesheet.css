@@ -1,5 +1,64 @@
-p
-{
-    color: red;
-    line-height: 1.5px;
+body{
+    font-family: 'Sawarabi Mincho', sans-serif;
+    background-color: #e4f9f5;
+    margin: 0px;
+}
+
+li{
+    list-style: none;
+}
+
+.header{
+    color: #40514e;
+    height: 90px;
+}
+
+.header-logo{
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+}
+
+.header-list{
+    font-size: 24px;
+}
+
+.header-list li{
+    float: left;
+    padding: 33px 20px;
+}
+
+.main{
+    color: #30e3ca;
+    padding: 100px 80px;
+}
+
+.copy-container h1{
+    font-size: 140px;
+}
+
+.copy-container span{
+    color: #ff4a4a;
+}
+
+.footer{
+    color: #11999e;
+    /*height: 150px;
+    padding-top: 30px;*/
+}
+
+.footer-logo{
+    float: left;
+    font-size: 36px;
+    padding-left: 40px;
+}
+
+.footer-list{
+    float: right;
+    font-size: 24px;
+    padding-right: 50px;
+}
+
+.footer-list li{
+    padding-bottom: 20px;
 }
