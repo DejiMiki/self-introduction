@@ -1,8 +1,7 @@
 body{
     font-family: 'Sawarabi Mincho', sans-serif;
-    font-family: Arial, Helvetica, sans-serif;
     background-color: #e4f9f5;
-    margin: 0px;
+    /*margin: 0px;*/
 }
 
 li{
@@ -10,8 +9,10 @@ li{
 }
 
 .header{
-    background-color: #e4f9f5;
     position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: #e4f9f5;
     color: #40514e;
     height: 80px;
     width: 100%;
