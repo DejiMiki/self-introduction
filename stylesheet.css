@@ -1,7 +1,14 @@
+@font-face {
+	font-family: 'KH-Dot-Dougenzaka-16';
+	src: local('font\KH-Dot-Dougenzaka-16.ttf');
+}
+
 body{
-    font-family: 'Sawarabi Mincho', sans-serif;
+    /*font-family: 'Sawarabi Mincho', sans-serif;*/
+    font-family: 'KH-Dot-Dougenzaka-16', sans-serif;
     background-color: #e4f9f5;
     /*margin: 0px;*/
+    /*text-align: center;*/
 }
 
 li{
